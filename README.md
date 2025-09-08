@@ -70,11 +70,12 @@ DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
 ### Input:
 
-<img width="556" height="92" alt="Screenshot 2025-09-08 085910" src="https://github.com/user-attachments/assets/6ecc2995-6410-4e31-9d71-ac2321248445" />
+<img width="663" height="137" alt="Screenshot 2025-09-08 090554" src="https://github.com/user-attachments/assets/1b8cbc63-36f2-42ea-aac0-f68b75f0c76e" />
+
 
 ### Output:
 
-<img width="551" height="48" alt="Screenshot 2025-09-08 085923" src="https://github.com/user-attachments/assets/0ab4ec35-ae6c-4c7f-8135-14ff54d30040" />
+<img width="909" height="51" alt="Screenshot 2025-09-08 090609" src="https://github.com/user-attachments/assets/3fa911eb-f889-41fc-9d0a-5e83a543cc0b" />
 
 
 ### Result:
